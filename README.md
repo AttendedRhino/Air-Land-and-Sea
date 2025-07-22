@@ -360,7 +360,7 @@ We trained the small DQN model from scratch against a random opponent
 policy. The agent's average reward and win rate, showed consistent
 improvement, plateauing slightly after approximately 10,000 episodes.
 
-![image](small_scratch_random.png)
+![image](images\small_scratch_random.png)
 
 Final evaluation results (averaged over 500 episodes) were as follows:
 
@@ -379,7 +379,7 @@ policy. Here, the agent's average reward and win rate did not
 consistently improve as before; performance began to decline a bit after
 approximately 5,000 episodes.
 
-![image](large_scratch_random.png)
+![image](images/large_scratch_random.png)
 
 Final evaluation results (averaged over 500 episodes) were as follows:
 
@@ -399,7 +399,7 @@ We trained the small DQN model from scratch directly against a heuristic
 opponent policy. The agent's average reward and win rate improved
 consistently, but plateaued slightly after about 15,000 episodes.
 
-![image](small_scratch_heuristic.png)
+![image](images/small_scratch_heuristic.png)
 
 Final evaluation results (averaged over 500 episodes) were as follows:
 
@@ -422,7 +422,7 @@ opponent, by further training it against a heuristic opponent policy.
 The agent's average reward and win rate improved consistently and
 plateaued slightly after around 3,500 episodes.
 
-![image](small_tune_heuristic.png)
+![image](images/small_tune_heuristic.png)
 
 Final evaluation results (averaged over 500 episodes) were as follows:
 
