@@ -1,10 +1,9 @@
-
-Author:
-  Alex Kang, Andrew Kim, Daniel Xie
-  ak829, amk379, djx2
   
 # Title: "Learning to play Air Land and Sea: A Reinforcement Learning
   Approach"
+
+Authors:
+  Alex Kang, Andrew Kim, Daniel Xie
 
 **Link to Presentation:**
 <https://drive.google.com/file/d/1DkNuuRpufKBKAIgmScVmaYZfqv8QX-X0/view?usp=sharing>
