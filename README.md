@@ -1,6 +1,5 @@
   
-# Title: "Learning to play Air Land and Sea: A Reinforcement Learning
-  Approach"
+# Title: "Learning to play Air Land and Sea: A Reinforcement Learning Approach"
 
 Authors:
   Alex Kang, Andrew Kim, Daniel Xie
