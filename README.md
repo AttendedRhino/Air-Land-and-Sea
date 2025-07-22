@@ -252,7 +252,7 @@ adaptations to our DQN implementation:
 
 1.  **Action Masking:** We encode only legal moves in the network's
     forward pass. Given the current hand and board, we construct an
-    action mask $$\mathbf{m} \;\in\;\{0,1\}^{37}\,.$$
+    action mask $$\mathbf{m} \;\in\{0,1\}^{37}\$$
 
 2.  **Persistent Index Mapping:** We maintain a mapping from each "card"
     to its global action ID. When a card is played, its ID is simply
